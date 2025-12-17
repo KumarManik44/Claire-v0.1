@@ -140,7 +140,3 @@ project-claire/
 ---
 
 *Built with 💻 and ☕ by a human trying to make machines remember.*
-
-```
-
-```
