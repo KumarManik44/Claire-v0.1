@@ -38,7 +38,7 @@ This project uses a modular "Micro-Brain" architecture:
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
-| **The Brain** | **Google Gemini 1.5 Flash** | Reasoning, personality, and response generation. |
+| **The Brain** | **Google Gemini 2.5 Flash** | Reasoning, personality, and response generation. |
 | **The Ears** | **Deepgram Nova-2** | Ultra-fast Speech-to-Text (STT) transcription. |
 | **The Voice** | **ElevenLabs (Rachel)** | High-fidelity Text-to-Speech (TTS). |
 | **The Memory** | **LangChain + FAISS** | Vector storage for long-term context retention. |
