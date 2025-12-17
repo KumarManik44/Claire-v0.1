@@ -1,0 +1,15 @@
+# Dependencies
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+deepgram-sdk
+elevenlabs
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+streamlit
+python-dotenv
+requests
+numpy
